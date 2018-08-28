@@ -1,0 +1,26 @@
+{
+  "name": "kilp",
+  "version": "0.2.0",
+  "description": "Kill process listening on port",
+  "main": "index.js",
+  "bin": {
+    "kilp": "bin/kilp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramesaliyev/kilp.git"
+  },
+  "keywords": [
+    "kill",
+    "process"
+  ],
+  "author": "Rameş Aliyev <creator@ramesaliyev.com> (http://ramesaliyev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramesaliyev/kilp/issues"
+  },
+  "homepage": "https://github.com/ramesaliyev/kilp#readme",
+  "dependencies": {
+    "exec-sh": "^0.2.2"
+  }
+}
