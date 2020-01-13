@@ -1,4 +1,6 @@
 # Kilp
+[![Downloads](https://img.shields.io/npm/dt/kilp.svg)](https://www.npmjs.com/package/kilp)
+
 Kill process listening on port. **Only tested in mac.**
 
 # Usage
@@ -11,7 +13,7 @@ CLI only.
     $ kilp <port>
 ##### Examples
     $ kilp 8080
-  
+
 ## NPX
 ##### Direct Usage
     $ npx kilp <port>
