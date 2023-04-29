@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ramesaliyev/kilp#readme",
   "dependencies": {
-    "exec-sh": "^0.2.2"
+    "exec-sh": "^0.4.0"
   }
 }
